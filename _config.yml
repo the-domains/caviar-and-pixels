@@ -1,6 +1,6 @@
 name: 'Caviar & Pixels'
 favicon: null
-layout_spectrum: 0.31566450954414904
+layout_spectrum: 1
 typography_spectrum: 0.033571056788787246
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5004958917852491
-  lightness: 0.4317302145063877
-  saturation: 0.9028132907114923
-  rhythmicContrast: 0.01243450352922082
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
