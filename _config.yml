@@ -1,0 +1,28 @@
+name: 'Caviar & Pixels'
+favicon: null
+layout_spectrum: 0.31566450954414904
+typography_spectrum: 0.033571056788787246
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5004958917852491
+  lightness: 0.4317302145063877
+  saturation: 0.9028132907114923
+  rhythmicContrast: 0.01243450352922082
+purpose: []
